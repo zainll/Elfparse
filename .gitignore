@@ -7,3 +7,4 @@ includes/*.h
 my_objdump
 my_nm
 *log*
+build
